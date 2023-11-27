@@ -1,6 +1,6 @@
 # CrudSpringBootFutebol
 <h1 align="center"> Crud sobre Futebol utilizando spring boot e Postman</h1>
-Lista de Partidas de Futebol /n
+Lista de Partidas de Futebol/n/
 Objetivo: desenvolver uma API para salvar partidas de futebol.
 Operações básicas:
 - cadastrar uma partida, contendo no mínimo o nome dos clubes, o resultado da partida, a data e a hora da partida e o nome do estádio; :white_check_mark:
